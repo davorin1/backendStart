@@ -10,3 +10,9 @@ or...
 - Phyical items - forms, order sheets, printouts and handouts
 - People and expertise
 - An existing database - spreadsheets and text files
+
+## Entities and Attributes
+
+- Table (example: Employee)
+- Columns: FirstName, LastName, DateHired, SalaryGrade, AddressLine1, AdddressLine2, City, State, Zip, Email, Photo etc.
+- defining data type (int, char), NULL, not NULL (requires), pattern match
